@@ -1,0 +1,6 @@
+# This file controls automatic tagging where if any tag matches any keyword in the value, the key is automatically added to the story. Unlike the synonyms file which replaces the keyword, this adds the keyword.
+
+scifi: cyberpunk,
+ntr: netorare, netori, cheating, cuckholding
+erotica: workforsmut
+superhero: superheroine
