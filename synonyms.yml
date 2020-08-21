@@ -1,0 +1,89 @@
+# Keywords in the value are transformed into the key.
+
+# Protagonists
+femaleprotagonist: femaleprotag, femprotag, girlprotag
+maleprotagonist: maleprotag, malemc, malemaincharacter
+futaprotagonist: futamc, futaprotag, futanariprotagonist
+bisexualprotagonist: biprotagonist, bisexualprotagonist, bisexualprotag, bisexualmc, biprotag
+submissiveprotagonist: submc, subprotag
+strongprotagonist: strongprotag
+villainprotagonist: villainprotag, villainmc
+evilprotagonist: evilmc
+nonhumanprotagonist: nonhumanprotag
+multipleprotagonists: multiprotags, multipleprotags
+dualprotagonists: dualprotagonist
+littleboyprotagonist: shotaprotagonist
+
+# Erotica is its own section
+erotica: erotic, plotwithsmut, lightsmut, smutandplot, occasionalsmut, storybeforesmut, smutwithplot, somesmut, smutlater, pornwithplot, pornbutwithplot, plotwithporn, 
+smut: smutquest, explicitsex
+
+# misc
+firststory: 1stquest, firsttimeqm
+newwriter: newqm
+
+# Singular instead of plural
+metahuman: metahumans
+cape: capes
+wizard: wizards
+monstergirl: monstergirls
+monsterboy: monsterboys
+tentacle: tentacles
+foxgirl: foxgirls
+cult: cults
+badpun: badpuns
+amazon: amazons
+viking: vikings
+videogame: videogames
+slime: slimes
+nun: nuns
+parahuman: parahumans
+mech: mechs
+idol: idols
+diaper: diapers
+spacemarine: spacemarines
+slave: slaves
+relationship: relationships
+pokegirl: pokegirls
+mutation: mutations
+nazi: nazis
+mercenary: mercenaries
+fetish: fetishes
+dream: dreams
+
+# Subjective judgements on which shortened forms are "common", and other common ways to say the same thing
+impregnation: impreg, breeding
+scifi: sciencefiction
+sciencefantasy: scifantasy, scififantasy
+futa: futanari, dickgirl, dickgirls
+femdom: femaledomination
+femsub: femalesubmissive
+maledom: maledomination
+malesub: malesubmissive
+bodymodification: bodyalteration, bodymods, bodymod
+ai: artificialintelligence
+mecha: giantrobots
+short: oneshots, oneshot, shortstory
+nonconsent: noncon, nonconsensual
+harem: multipleloveinterests
+lewd: lewdness, lewds
+groupsex: orgy
+superhero: capeshit
+postapocalyptic: postapoc, postapocalypse
+apocalyptic: apocalypse
+modern: modernday, modernsetting
+charactercreation: chargen
+
+# specific IPs
+myheroacademia: bnha, bokunoheroacademia
+harrypotter: hp
+dragonball: dragonballz, dbz
+highschooldxd: dxd
+fategrandorder: fgo
+avatarthelastairbender: atla
+mindcontroluniversity: mcu
+magicthegathering: mtg
+civilization: civ
+gameofthrones: asongoficeandfire, asoiaf
+swordartonline: sao
+dungeonsanddragons: dnd
